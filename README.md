@@ -5,7 +5,7 @@
 
 ### Description
 Ce projet est une implémentation du jeu de démineur en utilisant **Pygame**, une bibliothèque Python permettant de créer des jeux 2D. Le but de ce jeu est de dévoiler toutes les cases d'une grille sans toucher une mine.
-##3 Prérequis
+### Prérequis
 
 Avant de pouvoir jouer à ce jeu, vous devez avoir installé les éléments suivants :
 
@@ -35,7 +35,7 @@ Avant de pouvoir jouer à ce jeu, vous devez avoir installé les éléments suiv
 
 ### Description
 This project is an implementation of the mine-clearing game using **Pygame**, a Python library for creating 2D games. The aim of the game is to reveal all the squares of a grid without touching a mine.
-##3 Prerequisites
+### Prerequisites
 
 Before you can play this game, you need to have the following installed:
 
